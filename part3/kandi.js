@@ -1,4 +1,4 @@
-(function ($) {
+(function!($) {
 // define variables
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
@@ -26,7 +26,7 @@ if (canUseLocalStorage) {
   }
 }
 
-/**
+/!*
  * Get a random number between range
  * @param {integer}
  * @param {integer}
@@ -898,4 +898,4 @@ $('.restart').click(function() {
 });
 
 assetLoader.downloadAll();
-})(jQuery);
+})(jQuery); 
