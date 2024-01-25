@@ -3,7 +3,7 @@ Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/endless-runner-html5-game/<br>
 Play Game: https://tutsplus.github.io/kandi-runner/<br>
 
-[![endless-runner](https://raw.githubusercontent.com/straker/endless-runner-html5-game/master/game.PNG)](https://tutsplus.github.io/kandi-runner/)
+[ [endless-runner](https://raw.githubusercontent.com/straker/endless-runner-html5-game/master/game.PNG)](https://tutsplus.github.io/kandi-runner/)
 
 Description: An Endless Runner style HTML5 canvas game tutorial series.</br>
 
@@ -18,3 +18,4 @@ The above copyright notice and this permission notice shall be included in all c
 Hosts the files and assets for a three part tutorial series on creating an Endless Runner style HTML5 canvas game from scratch. The game is all self contained within each folder.
 
 The complete tutorial may be found at http://blog.sklambert.com/endless-runner-html5-game/.
+ 
